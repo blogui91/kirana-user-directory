@@ -10,4 +10,5 @@ This is a test made for Kirana Labs related to [this code challenge](https://git
    `npm run dev`
 3. Visit http://localhost:5173/ in your browser
 
-
+## Demo 
+![demo](https://github.com/blogui91/kirana-user-directory/assets/5723380/517c3101-f8b6-40a4-86e9-c367c858a6ab)
