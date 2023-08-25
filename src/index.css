@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.btn {
+    @apply px-3 h-[44px] py-2 leading-tight rounded text-white font-bold disabled:opacity-60;
+}
+
+.btn-primary {
+    @apply bg-blue-500 hover:bg-blue-600;
+}
+
+.btn-success {
+    @apply bg-green-500 hover:bg-green-600;
+}
+
+
